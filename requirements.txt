@@ -1,0 +1,4 @@
+python-telegram-bot==21.1.1
+transformers
+torch --index-url https://download.pytorch.org/rls/cpu
+sentencepiece
